@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/python/</link>
+    <description>Recent content in Python on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Credit Risk Assessment FinTech Framework</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-1/</guid>
+      <description>This project represents the credit risk assessment dual framework of predicting credit scores and the forecasts of credit default risk of the consumers of the financial institutions like commercial banks and the lending firms.
+  The implementation is dealt that mimics the real-world FICO Scoring Model with the custom enhancements to include lender&amp;rsquo;s internal credit risk factors by proposing a new Domain-Tech Feature Selection Approach along with Deep Learning and Transfer Learning techniques.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Bank Customers Churn Prediction</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-2/</guid>
+      <description>This project deals with the classification of the bank customers on whether a customer will leave the bank (i.e.; churn) or not.
+  As part of this project; below steps of a Data Science Project Life-Cycle is being implemented.
+ Data Exploration, Analysis and Visualisations Data Pre-processing Data Preparation for the Modelling Model Training Model Validation Optimized Model Selection based on Various Performance Metrics Deploying the Best Optimized Model into Unseen Test Data Evaluating the Optimized Model’s Performance Metrics    The business case and the problem statement to determine the churn status of the bank customers are explored, trained and validated on 7 different classification algorithms/models as listed below and the best finalized optimized model is selected based on the various performance metrics namely accuracy, precision, recall and f1-score.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Content Management Web System With PostgreSQL Database, APIs and Cloud Deployment</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-3/</guid>
+      <description>This project repository includes a Web-based Content (Articles) Management System/Application related to Data Science Learning and Career Journey with User Registration, Login functionalities using Python, Flask Web Framework, HTML, PostgreSQL database and Heroku Cloud Server.
+  This application is implemented and deployed in Heroku Cloud Server.
+  The application functionalities include below:
+ New User Registration (First Name, Last Name, Email Address, Gender, Language, Password) Existing User Login User Management (Modify/Edit Existing User Details and Delete Existing User) New Article/Content Creation View and Retrieve list of Users and the Articles References - covering various public website links External References - covering mathematical functions for quick references    This application includes REST APIs implementation and cloud based functionalities covering below:</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Exploratory Data Analysis (EDA) and Data Cleaning of Spark Fund Investments</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-4/</guid>
+      <description>This project deals with the Exploratory Data Analysis and the Data Cleaning of the various Companies Data for Spark Fund Investment, along with the Profiling Report.
+  Tools &amp;amp; Technologies: Python, GitHub
+   Link to Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Audio Digits Classification using Convolutional Neural Network</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-8/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-8/</guid>
+      <description>The project cover the basic solution and the Advanced Solution as given below based on Audio Feature Extraction Method named &amp;ldquo;Mel-frequency cepstral coefficients (MFCC)&amp;rdquo; and Deep Learning Convolutional Neural Network (CNN).
+  Basic Solution: Includes designing, building, training, validation and testing a model created to recognise numerals from 0 to 9 in the audio files.
+  Advanced Solution: Includes implementing the solution to predict the numeral based on a new audio test file.</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Python Data Analysis</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-9/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-9/</guid>
+      <description>This project deals with the Exploratory Data Analysis of the Pokemon Data using Python Pandas Library.
+  Tools &amp;amp; Technologies: Python, GitHub
+   Link to Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

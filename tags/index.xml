@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/</link>
+    <description>Recent content in Tags on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/data-science/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heroku Cloud</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/heroku-cloud/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/heroku-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/postgresql/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/python/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/tableau/</link>
+      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
