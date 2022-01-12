@@ -13,8 +13,7 @@
       <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
       
       <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-1/</guid>
-      <description>This project represents the credit risk assessment dual framework of predicting credit scores and the forecasts of credit default risk of the consumers of the financial institutions like commercial banks and the lending firms.
-  The implementation is dealt that mimics the real-world FICO Scoring Model with the custom enhancements to include lender&amp;rsquo;s internal credit risk factors by proposing a new Domain-Tech Feature Selection Approach along with Deep Learning and Transfer Learning techniques.</description>
+      <description>This project represents the credit risk assessment dual framework of predicting the credit scores in the range of 300 (poor score and least trust) to 850 (exceptional score and most trust) and the forecasts of the credit default risk probability of the individuals; which can be utilized by the financial institutions like commercial banks and lending firms to evaluate the credit worthiness of their customers and the new applicants.</description>
     </item>
     
     <item>
@@ -46,9 +45,7 @@
       <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
       
       <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-4/</guid>
-      <description>This project deals with the Exploratory Data Analysis and the Data Cleaning of the various Companies Data for Spark Fund Investment, along with the Profiling Report.
-  Tools &amp;amp; Technologies: Python, GitHub
-   Link to Project&amp;rsquo;s GitHub Repository</description>
+      <description>This project deals with the Exploratory Data Analysis and the Data Cleaning of the various Companies Data for Spark Fund Investment, along with the Profiling Report.  A detailed HTML version of the profiling reports for the Companies Data and the Rounds Data can be viewed from the reports folder of the project&amp;rsquo;s github repository. NOTE: HTML Reports can be accessed in a user-friendly readable format via a web browser; after copying it into a local folder of the desktop/laptop.</description>
     </item>
     
     <item>
@@ -70,7 +67,7 @@
       <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-9/</guid>
       <description>This project deals with the Exploratory Data Analysis of the Pokemon Data using Python Pandas Library.
   Tools &amp;amp; Technologies: Python, GitHub
-   Link to Project&amp;rsquo;s GitHub Repository</description>
+  Pokemon Data Analysis : Type 1 Stats Based on the Defense  Pokemon Data Analysis : Type 2 Stats Based on the Speed  Pokemon Data Analysis : Legendary Stats  Link to Project&amp;rsquo;s GitHub Repository</description>
     </item>
     
   </channel>
