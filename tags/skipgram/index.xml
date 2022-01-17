@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SkipGram on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/skipgram/</link>
+    <description>Recent content in SkipGram on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/skipgram/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 13: NLP - Distributional Semantics Implementation of the Corpus Data with Sampling Methods</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-13/</guid>
+      <description>This project covers the distributional semantics to investigate how some words in the English language changed over the course of the last two centuries 2000 and 2010 using a private Corpus of Historical American English (COHA) dataset.
+  The project explores and implements various sampling methods as listed below:
+ N-Gram CBOW SkipGram Word2Vec    Tools &amp;amp; Technologies: Python (nltk, word2vec, pandas, numpy, matplotlib), GitHub</description>
+    </item>
+    
+  </channel>
+</rss>

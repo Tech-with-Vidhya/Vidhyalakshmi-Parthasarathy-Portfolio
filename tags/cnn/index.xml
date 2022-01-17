@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNN on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/cnn/</link>
+    <description>Recent content in CNN on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/cnn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 8: Audio Digits Classification using Convolutional Neural Network</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-8/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-8/</guid>
+      <description>The project cover the basic solution and the Advanced Solution as given below based on Audio Feature Extraction Method named &amp;ldquo;Mel-frequency cepstral coefficients (MFCC)&amp;rdquo; and Deep Learning Convolutional Neural Network (CNN).
+  Basic Solution: Includes designing, building, training, validation and testing a model created to recognise numerals from 0 to 9 in the audio files.
+  Advanced Solution: Includes implementing the solution to predict the numeral based on a new audio test file.</description>
+    </item>
+    
+  </channel>
+</rss>

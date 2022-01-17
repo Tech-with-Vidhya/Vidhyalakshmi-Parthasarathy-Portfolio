@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Profiling Report on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/profiling-report/</link>
+    <description>Recent content in Profiling Report on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/profiling-report/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Exploratory Data Analysis (EDA) and Data Cleaning of Spark Fund Investments</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-4/</guid>
+      <description>This project deals with the Exploratory Data Analysis and the Data Cleaning of the various Companies Data for Spark Fund Investment, along with the Profiling Report.  A detailed HTML version of the profiling reports for the Companies Data and the Rounds Data can be viewed from the reports folder of the project&amp;rsquo;s github repository. NOTE: HTML Reports can be accessed in a user-friendly readable format via a web browser; after copying it into a local folder of the desktop/laptop.</description>
+    </item>
+    
+  </channel>
+</rss>

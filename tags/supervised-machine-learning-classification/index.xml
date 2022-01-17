@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supervised Machine Learning - Classification on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/supervised-machine-learning-classification/</link>
+    <description>Recent content in Supervised Machine Learning - Classification on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/supervised-machine-learning-classification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Bank Customers Churn Prediction</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-2/</guid>
+      <description>This project deals with the classification of the bank customers on whether a customer will leave the bank (i.e.; churn) or not.
+  As part of this project; below steps of a Data Science Project Life-Cycle is being implemented.
+ Data Exploration, Analysis and Visualisations Data Pre-processing Data Preparation for the Modelling Model Training Model Validation Optimized Model Selection based on Various Performance Metrics Deploying the Best Optimized Model into Unseen Test Data Evaluating the Optimized Model’s Performance Metrics    The business case and the problem statement to determine the churn status of the bank customers are explored, trained and validated on 7 different classification algorithms/models as listed below and the best finalized optimized model is selected based on the various performance metrics namely accuracy, precision, recall and f1-score.</description>
+    </item>
+    
+  </channel>
+</rss>

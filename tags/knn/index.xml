@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KNN on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/knn/</link>
+    <description>Recent content in KNN on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/knn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 20: House Prices Anomaly Detection using Proximity-Based KNN Method</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-20/</guid>
+      <description>This project covers the Implementation of the Outlier Detection using the proximity-based method of k-nearest neighbors to calculate the outlier scores on the”house prices” dataset; with the inclusion of the data pre-processing steps of z-score normalisation and PCA dimensionality reduction techniques.
+  The implementation is executed using Python’s libraries namely pandas, numpy, matplotlib, sklearn and scipy.
+  The solution includes the computation of the Euclidean Distance to further detect the top 3 outlier houses with the highest prices when compared with the average house price.</description>
+    </item>
+    
+  </channel>
+</rss>

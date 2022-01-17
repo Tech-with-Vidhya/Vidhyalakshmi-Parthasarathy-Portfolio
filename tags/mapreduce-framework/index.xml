@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MapReduce Framework on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/mapreduce-framework/</link>
+    <description>Recent content in MapReduce Framework on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/mapreduce-framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 16: Apache Hadoop HDFS MapReduce Jobs with Replication and Repartition Joins for NASDAQ Data</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-16/</guid>
+      <description>This project includes the development of a MapReduce python script with and without combiner from scratch for the implementation of the various replication and repartition join strategies; for a big data job for the “NASDAQ” private dataset; listed with the NASDAQ daily stock variations between 1970 and 2010.
+  The data files are stored in the Hadoop HDFS and 2 jobs are executed in the Hadoop Cluster.</description>
+    </item>
+    
+  </channel>
+</rss>

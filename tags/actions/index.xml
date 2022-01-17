@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actions on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/actions/</link>
+    <description>Recent content in Actions on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 17: Apache Spark RDD Computations with Transformations and Actions for Gutenberg Data</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-17/</guid>
+      <description>This project covers the development of Spark RDD computations from scratch using python’s pyspark package and regular expressions functions for the “Gutenberg” private data files; containing hundreds of books downloaded from the project Gutenberg, written in different languages.
+  Implemented the use of basic transformations (namely flatMap, map, reduceByKey) and actions on the RDDs and submitted spark jobs to the cluster.
+  Implemented solutions to the below questions and scenarios:</description>
+    </item>
+    
+  </channel>
+</rss>

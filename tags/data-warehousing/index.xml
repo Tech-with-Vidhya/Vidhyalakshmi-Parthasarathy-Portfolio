@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Warehousing on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/data-warehousing/</link>
+    <description>Recent content in Data Warehousing on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/data-warehousing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 18: Data Warehousing and OLAP Implementation of IBRD Balance Sheet Data</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-18/</guid>
+      <description>This project covers the Implementation of the Data Warehousing and On-line Analytical Processing (OLAP) concepts of data cubes, data cube measures, OLAP operations and data cube computations using the International Bank for Reconstruction and Development (IBRD) Balance Sheet private dataset.
+  The implementation is executed using Python and its various packages namely cubes and sqlalchemy.
+  The solution includes the following:
+ Indexing the OLAP data using bitmap indices Creation of base tables Creation of bitmap index tables Creation of the data cube model in the JSON file format by defining the aggregate functions Creation of the data cube Computation of the results for the various aggregate measures as defined in the data cube    Tools &amp;amp; Technologies: Python (data cubes, sqlalchemy, pandas, numpy, matplotlib), GitHub</description>
+    </item>
+    
+  </channel>
+</rss>

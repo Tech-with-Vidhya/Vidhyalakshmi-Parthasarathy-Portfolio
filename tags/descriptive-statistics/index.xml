@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Descriptive Statistics on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/descriptive-statistics/</link>
+    <description>Recent content in Descriptive Statistics on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/descriptive-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 15: Statistical Data Analysis and Visualizations using R Programming</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-15/</guid>
+      <description>The project covered the descriptive statistical analysis, data analysis and visualisations in R programming for the “njgolf” dataset.
+  Tools &amp;amp; Technologies: R, GitHub
+   Link to Project&amp;rsquo;s GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>

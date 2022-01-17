@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scraping on Miss Vidhyalakshmi Parthasarathy</title>
+    <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/web-scraping/</link>
+    <description>Recent content in Web Scraping on Miss Vidhyalakshmi Parthasarathy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 19: Web Scraping of Web Pages and Web Tables using Python Beautiful Soup</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-19/</guid>
+      <description>This project covers the Implementation of the Web Mining and Web Scraping of the 2 public website pages with html tables and 2 QMUL’s internal website pages with html table using Python’s “Beautiful Soup” module for web scraping, pandas, numpy, seaborn and matplotlib libraries.
+  The solution includes the following:
+ Scraping the specific contents from the web page html tables as per the custom filter requisites Converted the scraped table contents into a readable pandas dataframe table with customised columns Performed data cleaning steps to remove any unnecessary characters from the pandas table Exported the clean table data into a csv file for all the 4 web pages individually    Tools &amp;amp; Technologies: Python (beautiful soup, pandas, numpy, matplotlib), GitHub</description>
+    </item>
+    
+  </channel>
+</rss>
