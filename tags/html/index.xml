@@ -6,11 +6,20 @@
     <description>Recent content in HTML on Miss Vidhyalakshmi Parthasarathy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Credit Risk Assessment FinTech Framework</title>
+      <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-1/</guid>
+      <description>This project represents the credit risk assessment dual framework of predicting the credit scores in the range of 300 (poor score and least trust) to 850 (exceptional score and most trust) and the forecasts of the credit default risk probability of the individuals; which can be utilized by the financial institutions like commercial banks and lending firms to evaluate the credit worthiness of their customers and the new applicants.</description>
+    </item>
+    
     <item>
       <title>Project 3: Content Management Web System With PostgreSQL Database, APIs and Cloud Deployment</title>
       <link>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-3/</link>
-      <pubDate>Fri, 01 Jan 2021 10:58:08 -0400</pubDate>
+      <pubDate>Sat, 01 Jan 2022 10:58:08 -0400</pubDate>
       
       <guid>https://tech-with-vidhya.github.io/Vidhyalakshmi_Parthasarathy_Portfolio/post/project-3/</guid>
       <description>This project repository includes a Web-based Content (Articles) Management System/Application related to Data Science Learning and Career Journey with User Registration, Login functionalities using Python, Flask Web Framework, HTML, PostgreSQL database and Heroku Cloud Server.
